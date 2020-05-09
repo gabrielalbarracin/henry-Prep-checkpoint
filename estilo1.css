@@ -1,0 +1,32 @@
+#div {
+    margin: auto;
+    width: 500px;
+    background-color: yellow;
+    justify-content:center;
+}
+#lista {
+    font-size:25px;
+    color: red;
+}
+
+img {
+    margin-left: auto;
+    margin-right:auto;
+    display: block;
+    width: 400px;
+}
+a:link {
+    color: blue;
+}
+a:hover {
+    color: red; /*cambia de color cuando te paras arriba*/
+}
+a:visited {
+    color: green; /*cambia de color cuando entremos*/
+}
+
+
+/** el div contenedor tiene que tener un ancho de 500px, el color de fondo amarillo y estar centrado.
+  * Los elementos de la lista deben tener un tamaño de letra de 25px y ser de color rojo.
+  * la imagen debe estar centrada.
+  * el color del link una vez que se haya clickeado debe ser verde*/
